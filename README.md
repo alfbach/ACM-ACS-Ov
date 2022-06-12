@@ -3,19 +3,17 @@
 
 ## remote version
 
-## https://www.menti.com/rvcbgbg4p8
-
 June 2022
 
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes and Advanced Cluster Security.
 
-Times in EEST (East European Summer Time) GMT - 3
+### all times in EEST (East European Summer Time) GMT - 3
 
 ## Agenda:
 
 9:30		Welcome and Intro	
 
-9:45		Hybrid Cloud introduction, a technology overview
+9:45		Introduction, a technology overview
 
 10:15		RHACM Technical Overview 
 
