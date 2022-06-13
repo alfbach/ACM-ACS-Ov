@@ -1,3 +1,6 @@
+<img src="https://github.com/alfbach/ocp_dist/blob/main/logo.png" width="80" height="80">
+
+
 # Red Hat Advanced Cluster Management and
 # Advanced Container Security Technical Overview
 
