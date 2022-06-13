@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/ocp_dist/blob/main/logo.png" width="80" height="80">
+<img src="https://github.com/alfbach/ACM-ACS-Ov/blob/main/illustration_women-managing-secure-hyrbid-cloud-containers.svg" width="120" height="120">
 
 
 # Red Hat Advanced Cluster Management and
