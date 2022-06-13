@@ -9,7 +9,7 @@ June 2022
 
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes and Advanced Cluster Security.
 
-### all times in EEST (East European Summer Time) GMT - 3
+### all times in EEST (East European Summer Time) GMT + 3
 
 ## Agenda:
 
