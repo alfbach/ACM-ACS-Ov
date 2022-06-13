@@ -3,6 +3,8 @@
 
 ## remote version
 
+https://de.pornhub.com/view_video.php?viewkey=ph5efce75ed845c
+
 June 2022
 
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes and Advanced Cluster Security.
