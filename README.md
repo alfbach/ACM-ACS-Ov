@@ -12,6 +12,8 @@ June 2022
 
 Viedo Link to the Content: https://drive.google.com/file/d/1Dpf72GabwrXjt8cvldWFWFSHNzgrCpdw/view?usp=sharing 
 
+and https://drive.google.com/file/d/1WbG3valmxL7LICch6vMqxCceSDrUc2oQ/view?usp=sharing
+
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes and Advanced Cluster Security.
 
 ### all times in EEST (East European Summer Time) GMT + 3
