@@ -10,6 +10,8 @@ https://bluejeans.com/854229493/3296
 
 June 2022
 
+Viedo Link to the Content: https://drive.google.com/file/d/1Dpf72GabwrXjt8cvldWFWFSHNzgrCpdw/view?usp=sharing 
+
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes and Advanced Cluster Security.
 
 ### all times in EEST (East European Summer Time) GMT + 3
